@@ -1,1 +1,8 @@
+# mencegah Folder ini di Push
 /forbidden/
+
+# mencegah File tertentu di Push
+hide_me.html
+
+# mencegah File berextensi tertentu di Push
+*.doc
